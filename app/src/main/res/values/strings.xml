@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="gets_started_text">Get Started</string>
+    <string name="email_hint">"Email "</string>
+    <string name="login_text">LOGIN</string>
+    <string name="or_text">Or</string>
+    <string name="crate_account">Create Account</string>
+    <string name="user_name">username</string>
+    <string name="menu_title">Add Location</string>
+    <string name="signout">signout</string>
+    <string name="noLocationHint">Write a Location  Entry by clicking the \"+\" icon</string>
+    <string name="title_text_main">Scangebile</string>
+    <string name="main_welcome">Share Your locations</string>
+</resources>
